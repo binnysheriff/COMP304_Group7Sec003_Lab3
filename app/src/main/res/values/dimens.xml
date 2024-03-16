@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Airline list items -->
+    <dimen name="airline_item_horizontal_padding">16dp</dimen>
+    <dimen name="airline_item_vertical_padding">8dp</dimen>
+</resources>
